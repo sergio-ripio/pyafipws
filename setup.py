@@ -513,12 +513,9 @@ setup(name="PyAfipWs",
       license="GNU GPL v3",
       options=opts,
       install_requires=[
-          'httplib2>=0.7',
           'pysimplesoap==1.08.8',
           'm2crypto>=0.18',
           'fpdf>=1.7.2',
-          'dbf>=0.88.019',
-          'Pillow>=2.0.0'
       ],
       data_files=data_files,
             classifiers = [
