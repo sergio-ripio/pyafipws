@@ -521,7 +521,7 @@ setup(name="PyAfipWs",
       	'pysimplesoap==1.08.8',
         'm2crypto>=0.18',
         'fpdf>=1.7.2',
-      ]
+      ],
       data_files=data_files,
             classifiers = [
             "Development Status :: 5 - Production/Stable",
